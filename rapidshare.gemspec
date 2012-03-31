@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Tomasz Mazur", "Lukas Stejskal"]
   s.email       = ["defkode@gmail.com", "lucastej@gmail.com"]
   s.homepage    = "http://github.com/defkode/rapidshare"
-  s.summary     = %q{Rapidshare API}
-  # s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{low-level wrapper for Rapidshare API}
+  s.description = %q{Provides low-level wrapper for Rapidshare API.}
 
   s.rubyforge_project = "rapidshare"
 
