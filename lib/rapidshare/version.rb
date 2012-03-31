@@ -1,9 +1,13 @@
 # encoding: utf-8
 
 module Rapidshare
-  VERSION = "0.5.1"
+  VERSION = "0.5.2"
 
   # CHANGELOG:
+  #
+  # 0.5.2
+  # update gemspec (remove httparty, update turn)
+  # update and refactor examples
   #
   # 0.5.1
   # fixed ssl issues
